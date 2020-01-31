@@ -13,7 +13,7 @@ import {
 import { MonoText } from '../../components/StyledText';
 
 export default function HomeScreen() {
-  return (
+  returnsu(
     <View style={styles.container}>
       <ScrollView
         style={styles.container}
